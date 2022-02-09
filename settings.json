@@ -1,0 +1,7 @@
+{
+    "workbench.experimental.layoutControl.enabled": true,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true
+}
